@@ -5,6 +5,9 @@
 3. Keeps creating quizzes to test you as you learn!
 4. When you come back to review  your notes, it reminds you of the chat you had when you learnt this
 
+![alt text](https://github.com/niks1917/aitutor/blob/main/demo1.png)
+![alt text](https://github.com/niks1917/aitutor/blob/main/demo3.png)
+
 ### Key Design Principles
 
 Socratic and adaptative:
