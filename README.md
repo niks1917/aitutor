@@ -8,6 +8,8 @@
 ![alt text](https://github.com/niks1917/aitutor/blob/main/demo1.png)
 ![alt text](https://github.com/niks1917/aitutor/blob/main/demo3.png)
 
+Link to video demo: https://drive.google.com/file/d/1W5nWPKEOX8gi90BOyYnB9FU1I9E1TniZ/view?usp=sharing
+
 ### Key Design Principles
 
 Socratic and adaptative:
